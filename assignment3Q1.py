@@ -1,6 +1,6 @@
 import psycopg2
 
-# Database connection parameters
+# Database connection parameters from pgadmin
 DB_NAME = 'Assignment3'
 DB_USER = 'postgres'
 DB_PASSWORD = 'postgres'
@@ -8,7 +8,7 @@ DB_HOST = 'localhost'
 DB_PORT = '5432'
 
 
-# Function to establish database connection
+# Function to make database connection
 def get_db_connection():
     conn = psycopg2.connect(
         dbname=DB_NAME,
