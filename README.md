@@ -1,7 +1,7 @@
 # 3005_Assignment3_Q1
  Name: Justin Laalo
  SN: 101232038
-Video link to google drive: https://drive.google.com/file/d/1sGlIB3-VOC2I0aYuWAX9A-_f6CGTWvwp/view?usp=sharing
+Video link to google drive: https://drive.google.com/file/d/1G5pBU4IY_cLjrjF3CmG6b-S_9scXmtMM/view?usp=sharing
 
 Steps:
     1. pip install pycopg2
